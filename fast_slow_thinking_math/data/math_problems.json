@@ -1,0 +1,167 @@
+[
+  {
+    "id": "simple_1",
+    "problem": "What is 25 × 4?",
+    "complexity_level": "Simple",
+    "answer": "100",
+    "domain": "arithmetic",
+    "operations": ["multiplication"]
+  },
+  {
+    "id": "simple_2",
+    "problem": "Calculate 125 + 75.",
+    "complexity_level": "Simple",
+    "answer": "200",
+    "domain": "arithmetic",
+    "operations": ["addition"]
+  },
+  {
+    "id": "simple_3",
+    "problem": "What is 18 divided by 6?",
+    "complexity_level": "Simple",
+    "answer": "3",
+    "domain": "arithmetic",
+    "operations": ["division"]
+  },
+  {
+    "id": "simple_4",
+    "problem": "Find the value of 5² + 3.",
+    "complexity_level": "Simple",
+    "answer": "28",
+    "domain": "arithmetic",
+    "operations": ["exponentiation", "addition"]
+  },
+  {
+    "id": "simple_5",
+    "problem": "What is the perimeter of a square with side length 7 cm?",
+    "complexity_level": "Simple",
+    "answer": "28 cm",
+    "domain": "geometry",
+    "operations": ["multiplication"]
+  },
+  {
+    "id": "medium_1",
+    "problem": "Solve the equation 2x + 5 = 13 for x.",
+    "complexity_level": "Medium",
+    "answer": "4",
+    "domain": "algebra",
+    "operations": ["addition", "division"]
+  },
+  {
+    "id": "medium_2",
+    "problem": "Find the derivative of f(x) = 3x² + 2x - 5.",
+    "complexity_level": "Medium",
+    "answer": "6x + 2",
+    "domain": "calculus",
+    "operations": ["derivative"]
+  },
+  {
+    "id": "medium_3",
+    "problem": "Solve the quadratic equation x² - 5x + 6 = 0.",
+    "complexity_level": "Medium",
+    "answer": "x = 2, x = 3",
+    "domain": "algebra",
+    "operations": ["quadratic"]
+  },
+  {
+    "id": "medium_4",
+    "problem": "Find the area of a circle with radius 4 cm.",
+    "complexity_level": "Medium",
+    "answer": "16π cm²",
+    "domain": "geometry",
+    "operations": ["exponentiation", "multiplication"]
+  },
+  {
+    "id": "medium_5",
+    "problem": "If a car travels at 60 miles per hour, how far will it travel in 2.5 hours?",
+    "complexity_level": "Medium",
+    "answer": "150 miles",
+    "domain": "arithmetic",
+    "operations": ["multiplication"]
+  },
+  {
+    "id": "complex_1",
+    "problem": "Find the indefinite integral of f(x) = 2x³ - 3x² + 4x - 1.",
+    "complexity_level": "Complex",
+    "answer": "0.5x⁴ - x³ + 2x² - x + C",
+    "domain": "calculus",
+    "operations": ["integral"]
+  },
+  {
+    "id": "complex_2",
+    "problem": "Solve the system of equations: 2x + y = 7 and 3x - 2y = 1.",
+    "complexity_level": "Complex",
+    "answer": "x = 3, y = 1",
+    "domain": "algebra",
+    "operations": ["system_of_equations"]
+  },
+  {
+    "id": "complex_3",
+    "problem": "Find the volume of the solid obtained by rotating the region bounded by y = x², y = 0, and x = 2 about the y-axis.",
+    "complexity_level": "Complex",
+    "answer": "8π",
+    "domain": "calculus",
+    "operations": ["integral", "volume"]
+  },
+  {
+    "id": "complex_4",
+    "problem": "If f(x) = x² - 3x + 2 and g(x) = 2x + 1, find the derivative of (f ∘ g)(x).",
+    "complexity_level": "Complex",
+    "answer": "4(2x + 1) - 6",
+    "domain": "calculus",
+    "operations": ["composition", "derivative"]
+  },
+  {
+    "id": "complex_5",
+    "problem": "A mixture of 12% acid solution and 20% acid solution gives 15 liters of 15% acid solution. How many liters of each solution were used?",
+    "complexity_level": "Complex",
+    "answer": "6.25 liters of 12% solution and 8.75 liters of 20% solution",
+    "domain": "algebra",
+    "operations": ["system_of_equations"]
+  },
+  {
+    "id": "edge_1",
+    "problem": "What is 1 + 1?",
+    "complexity_level": "Simple",
+    "answer": "2",
+    "domain": "arithmetic",
+    "operations": ["addition"],
+    "notes": "Extremely simple problem to test fast thinking efficiency"
+  },
+  {
+    "id": "edge_2",
+    "problem": "Find the limit as x approaches 0 of (sin x)/x.",
+    "complexity_level": "Complex",
+    "answer": "1",
+    "domain": "calculus",
+    "operations": ["limit"],
+    "notes": "Requires understanding of limits and L'Hôpital's rule"
+  },
+  {
+    "id": "edge_3",
+    "problem": "Prove that the square root of 2 is irrational.",
+    "complexity_level": "Complex",
+    "answer": "Proof by contradiction",
+    "domain": "number_theory",
+    "operations": ["proof"],
+    "notes": "Requires proof by contradiction approach"
+  },
+  {
+    "id": "edge_4",
+    "problem": "If f'(x) = cos(x) and f(0) = 3, find f(x).",
+    "complexity_level": "Complex",
+    "answer": "f(x) = sin(x) + 3",
+    "domain": "calculus",
+    "operations": ["integral", "initial_value"],
+    "notes": "Tests understanding of antiderivatives with initial conditions"
+  },
+  {
+    "id": "edge_5",
+    "problem": "Simplify the expression (3x² - 2x + 5) + (2x² + 3x - 1).",
+    "complexity_level": "Medium",
+    "answer": "5x² + x + 4",
+    "domain": "algebra",
+    "operations": ["addition", "simplification"],
+    "notes": "Tests basic algebraic simplification"
+  }
+]

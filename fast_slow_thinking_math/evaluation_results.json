@@ -1,0 +1,242 @@
+{
+  "results": [
+    {
+      "problem_id": "simple_1",
+      "problem_text": "What is 25 \u00d7 4?",
+      "complexity_level": "Simple",
+      "expected_answer": "100",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.004804849624633789
+    },
+    {
+      "problem_id": "simple_2",
+      "problem_text": "Calculate 125 + 75.",
+      "complexity_level": "Simple",
+      "expected_answer": "200",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0017905235290527344
+    },
+    {
+      "problem_id": "simple_3",
+      "problem_text": "What is 18 divided by 6?",
+      "complexity_level": "Simple",
+      "expected_answer": "3",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0005261898040771484
+    },
+    {
+      "problem_id": "simple_4",
+      "problem_text": "Find the value of 5\u00b2 + 3.",
+      "complexity_level": "Simple",
+      "expected_answer": "28",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.00072479248046875
+    },
+    {
+      "problem_id": "simple_5",
+      "problem_text": "What is the perimeter of a square with side length 7 cm?",
+      "complexity_level": "Simple",
+      "expected_answer": "28 cm",
+      "actual_answer": null,
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0003924369812011719
+    },
+    {
+      "problem_id": "medium_1",
+      "problem_text": "Solve the equation 2x + 5 = 13 for x.",
+      "complexity_level": "Medium",
+      "expected_answer": "4",
+      "actual_answer": null,
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0665273666381836
+    },
+    {
+      "problem_id": "medium_2",
+      "problem_text": "Find the derivative of f(x) = 3x\u00b2 + 2x - 5.",
+      "complexity_level": "Medium",
+      "expected_answer": "6x + 2",
+      "actual_answer": "[-sqrt(3)*sqrt(1/(a*d*e**3*h*o*r))/(i*t*v), sqrt(3)*sqrt(1/(a*d*e**3*h*o*r))/(i*t*v)]",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.3,
+      "solution_time": 0.3346412181854248
+    },
+    {
+      "problem_id": "medium_3",
+      "problem_text": "Solve the quadratic equation x\u00b2 - 5x + 6 = 0.",
+      "complexity_level": "Medium",
+      "expected_answer": "x = 2, x = 3",
+      "actual_answer": "a**3*c*d*e**2*h*i**2*n*o*q**2*r*t**3*u**2*x",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.9,
+      "solution_time": 0.012248039245605469
+    },
+    {
+      "problem_id": "medium_4",
+      "problem_text": "Find the area of a circle with radius 4 cm.",
+      "complexity_level": "Medium",
+      "expected_answer": "16\u03c0 cm\u00b2",
+      "actual_answer": "9*pi",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.8,
+      "solution_time": 0.0006043910980224609
+    },
+    {
+      "problem_id": "medium_5",
+      "problem_text": "If a car travels at 60 miles per hour, how far will it travel in 2.5 hours?",
+      "complexity_level": "Medium",
+      "expected_answer": "150 miles",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0003762245178222656
+    },
+    {
+      "problem_id": "complex_1",
+      "problem_text": "Find the indefinite integral of f(x) = 2x\u00b3 - 3x\u00b2 + 4x - 1.",
+      "complexity_level": "Complex",
+      "expected_answer": "0.5x\u2074 - x\u00b3 + 2x\u00b2 - x + C",
+      "actual_answer": "[2/(a*d*e**4*f**3*g*h*i**4*n**3*o*r*t**3)]",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.3,
+      "solution_time": 0.10033106803894043
+    },
+    {
+      "problem_id": "complex_2",
+      "problem_text": "Solve the system of equations: 2x + y = 7 and 3x - 2y = 1.",
+      "complexity_level": "Complex",
+      "expected_answer": "x = 3, y = 1",
+      "actual_answer": "a*e**3*f*h*i*m*n*o**2*q*s**3*t**3*u*y",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.9,
+      "solution_time": 0.009223461151123047
+    },
+    {
+      "problem_id": "complex_3",
+      "problem_text": "Find the volume of the solid obtained by rotating the region bounded by y = x\u00b2, y = 0, and x = 2 about the y-axis.",
+      "complexity_level": "Complex",
+      "expected_answer": "8\u03c0",
+      "actual_answer": "[-(x/(a**2*e**7*f*g**2*h**3*l**2*m*o**7*r**2*s*t**6*u**2*v*y**3))**(1/4)/(b*d*i), (x/(a**2*e**7*f*g**2*h**3*l**2*m*o**7*r**2*s*t**6*u**2*v*y**3))**(1/4)/(b*d*i), -I*(x/(a**2*e**7*f*g**2*h**3*l**2*m*o**7*r**2*s*t**6*u**2*v*y**3))**(1/4)/(b*d*i), I*(x/(a**2*e**7*f*g**2*h**3*l**2*m*o**7*r**2*s*t**6*u**2*v*y**3))**(1/4)/(b*d*i)]",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.3,
+      "solution_time": 0.11276435852050781
+    },
+    {
+      "problem_id": "complex_4",
+      "problem_text": "If f(x) = x\u00b2 - 3x + 2 and g(x) = 2x + 1, find the derivative of (f \u2218 g)(x).",
+      "complexity_level": "Complex",
+      "expected_answer": "4(2x + 1) - 6",
+      "actual_answer": null,
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0013442039489746094
+    },
+    {
+      "problem_id": "complex_5",
+      "problem_text": "A mixture of 12% acid solution and 20% acid solution gives 15 liters of 15% acid solution. How many liters of each solution were used?",
+      "complexity_level": "Complex",
+      "expected_answer": "6.25 liters of 12% solution and 8.75 liters of 20% solution",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.00047016143798828125
+    },
+    {
+      "problem_id": "edge_1",
+      "problem_text": "What is 1 + 1?",
+      "complexity_level": "Simple",
+      "expected_answer": "2",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0003688335418701172
+    },
+    {
+      "problem_id": "edge_2",
+      "problem_text": "Find the limit as x approaches 0 of (sin x)/x.",
+      "complexity_level": "Complex",
+      "expected_answer": "1",
+      "actual_answer": null,
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.001445770263671875
+    },
+    {
+      "problem_id": "edge_3",
+      "problem_text": "Prove that the square root of 2 is irrational.",
+      "complexity_level": "Complex",
+      "expected_answer": "Proof by contradiction",
+      "actual_answer": null,
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.00030231475830078125
+    },
+    {
+      "problem_id": "edge_4",
+      "problem_text": "If f'(x) = cos(x) and f(0) = 3, find f(x).",
+      "complexity_level": "Complex",
+      "expected_answer": "f(x) = sin(x) + 3",
+      "actual_answer": "f*x",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.9,
+      "solution_time": 0.0014312267303466797
+    },
+    {
+      "problem_id": "edge_5",
+      "problem_text": "Simplify the expression (3x\u00b2 - 2x + 5) + (2x\u00b2 + 3x - 1).",
+      "complexity_level": "Medium",
+      "expected_answer": "5x\u00b2 + x + 4",
+      "actual_answer": "Word problem solution would be implemented based on specific problem structure",
+      "is_correct": false,
+      "strategy_used": "FAST_THEN_SLOW",
+      "confidence": 0.1,
+      "solution_time": 0.0003826618194580078
+    }
+  ],
+  "metrics": {
+    "total_problems": 20,
+    "total_time": 0.6507000923156738,
+    "avg_time": 0.032535004615783694,
+    "strategy_counts": {
+      "FAST": 0,
+      "SLOW": 0,
+      "FAST_THEN_SLOW": 20
+    },
+    "complexity_counts": {
+      "Simple": 6,
+      "Medium": 6,
+      "Complex": 8
+    },
+    "avg_confidence": 0.28499999999999986,
+    "correct_answers": 0,
+    "accuracy": 0.0
+  }
+}
